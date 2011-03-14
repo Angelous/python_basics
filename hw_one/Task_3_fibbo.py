@@ -10,5 +10,3 @@ while i < n:
     SE = SUM
     print SUM
     i += 1
-	
-	sdfkdsnflsdjnf
